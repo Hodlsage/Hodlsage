@@ -3,8 +3,8 @@ pragma solidity 0.7.5;
 // ----------------------------------------------------------------------------
 // --- llama llama llama
 // --- Symbol      : LAM
-// --- Name        : CryptoBondToken
-// --- Total supply: Generated from CBT minter accounts
+// --- Name        : llamacoins
+// --- Total supply: Generated from minter accounts
 // --- @author EJS32 
 // --- @title for 01101101 01111001 01101100 01101111 01110110 01100101
 // --- (c) www.llamacoins.com - 2019. The MIT License.
